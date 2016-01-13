@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T06:52:25.806Z'
-dateModified: '2016-01-13T06:52:21.908Z'
+datePublished: '2016-01-13T06:53:20.006Z'
+dateModified: '2016-01-13T06:53:15.157Z'
 title: 'Bonnie Devarco, Curator'
 author: []
 sourcePath: _posts/2016-01-13-bonnie-devarco-curator.md
