@@ -1,17 +1,23 @@
-title: LESLIE LUCEY GALLERY
-purpose: []
+typography_spectrum: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.680851
+title: LESLIE LUCEY GALLERY
+purpose: []
 color:
   saturation: 0.875
   brandStrength: 0
@@ -27,15 +33,9 @@ cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: Leslie Lucey Gallery
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 1
-layout_spectrum: 0.680851
