@@ -1,5 +1,8 @@
+name: Leslie Lucey Gallery
+favicon: null
+layout_spectrum: 0.35772
+typography_spectrum: 1
 title: LESLIE LUCEY GALLERY
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.75
-  brandStrength: 0.2
-  lightness: 1
   brandColors:
     - '#000000'
     - '#3f434e'
     - '#20232a'
     - '#9b9fab'
     - '#6e7585'
+  brandStrength: 0.1875
+  lightness: 1
+  saturation: 0.75
   rhythmicContrast: 0.4454618748277426
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Leslie Lucey Gallery
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 1
-layout_spectrum: 0.76253
+purpose: []
