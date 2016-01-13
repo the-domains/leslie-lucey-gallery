@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Spirited Nature, Traces of Light'
-datePublished: '2016-01-13T06:41:54.551Z'
-dateModified: '2016-01-13T06:41:49.417Z'
+datePublished: '2016-01-13T06:54:38.095Z'
+dateModified: '2016-01-13T06:54:33.897Z'
 title: New Exhibit
 author: []
 sourcePath: _posts/2016-01-13-new-exhibit.md
@@ -22,7 +22,7 @@ url: new-exhibit/index.html
 _type: Article
 
 ---
-_A work of art is an eternity of emotion. - Leslie Lucey_
+_"A work of art is an eternity of emotion."  - Leslie Lucey_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d814f32f-f9d4-423f-a7a4-2b750c45d7e1.jpg)
 
 Our premiere exhibition will merge storytelling, technology, and fine art. Not only will you see the evolution of a piece, you will experience the viewing of it in a new way. We are utilizing 3D and Virtual Reality to weave together the story of each piece. "Spirited Nature, Traces of Light" is a collaboration between two incredible artists. Tony Devarco (Santa Cruz, CA) and Mayako Nakamura (Tokyo, Japan) met in early 2013 and began collaborating shortly thereafter. Together they have created an exhibition that exquisitely merges their very different techniques.
