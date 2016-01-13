@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Leslie Lucey Gallery]]></title>
         <description><![CDATA[Leslie Lucey Gallery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leslie-lucey-gallery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 00:37:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 00:37:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leslie-lucey-gallery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0f54542-4b73-4cc0-a71d-b9ffa2803b38.jpg">]]></description>
+            <link>https://thegrid.ai/leslie-lucey-gallery/df54b330-45b6-4f2a-a73e-e21962b83c2c/index.html</link>
+            <guid isPermaLink="false">df54b330-45b6-4f2a-a73e-e21962b83c2c</guid>
+            <pubDate>Wed, 13 Jan 2016 00:37:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b11c84c5-8099-4a8d-a41c-6a2b9759560d.jpg">]]></description>
-            <link>undefinede5740ec3-f3b0-4897-af52-d72d53a5b5cc/index.html</link>
+            <link>https://thegrid.ai/leslie-lucey-gallery/e5740ec3-f3b0-4897-af52-d72d53a5b5cc/index.html</link>
             <guid isPermaLink="false">e5740ec3-f3b0-4897-af52-d72d53a5b5cc</guid>
             <pubDate>Wed, 13 Jan 2016 00:37:41 GMT</pubDate>
         </item>
