@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Spirited Nature, Traces of Light'
-datePublished: '2016-01-13T07:34:13.251Z'
-dateModified: '2016-01-13T07:34:02.187Z'
+datePublished: '2016-01-13T07:57:07.962Z'
+dateModified: '2016-01-13T07:55:49.544Z'
 title: New Exhibit
 author: []
 sourcePath: _posts/2016-01-13-new-exhibit.md
