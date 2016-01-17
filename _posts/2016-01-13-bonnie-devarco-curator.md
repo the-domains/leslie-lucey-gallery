@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T07:23:02.076Z'
-dateModified: '2016-01-13T07:12:26.909Z'
+datePublished: '2016-01-16T19:41:18.105Z'
+dateModified: '2016-01-16T19:41:08.571Z'
 title: 'Bonnie Devarco, Curator'
 author: []
 sourcePath: _posts/2016-01-13-bonnie-devarco-curator.md
